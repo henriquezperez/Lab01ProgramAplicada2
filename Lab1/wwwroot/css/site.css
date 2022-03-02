@@ -1,0 +1,32 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.form-control{
+    width: 52px;
+
+}
+.form-controles{
+    width: 466px;
+}
+.notas {
+    
+}
+. nav-item {
+    background-color: black;
+    color: white;
+}
